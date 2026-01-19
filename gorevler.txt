@@ -1,0 +1,5 @@
+0	2	2026-01-19	1. Görev - Python Ödev Teslimi
+0	3		Bilgisayarım\ersen\projeler Klasör yolundaki dosyaları düzenle.
+1	1		Kediyi (Paços) Besle
+1	3		Cli ile Görev Ekleme (test)
+1	1		Stajyerler için Bahar dönemi kayıtları oluştur.
