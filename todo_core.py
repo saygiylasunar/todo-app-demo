@@ -37,8 +37,7 @@ def _tarih_duzelt(tarih: str | None) -> str:
     if not t:
         return ""
     try:
-        datetime.strptime(t, "%Y-%m-%d")
-        return t
+        return datetime.strptime(t, "%Y-%m-%d").strftime("%Y-%m-%d")
     except ValueError:
         return ""
 
